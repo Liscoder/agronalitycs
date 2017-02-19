@@ -3,6 +3,10 @@ body {
 	background-color: #110025;
 	font-family: "Raleway", Arial, sans-serif !important;
 }
+.logo{
+	height:40px;
+
+}
 body.scroll-bar::-webkit-scrollbar {
 	width: 7px;
 }
@@ -68,7 +72,7 @@ header {
 	color: none;
 }
 #mainNav .navbar-header img {
-	width: 250px;
+	width:115px;
 }
 #header .description {
 	font-size: 2em;
